@@ -1,2 +1,2 @@
-# Sistema-Administraci-n-Empleados.
+# Sistema-Administracion-Empleados.
 Proyecto de Programación Orientada a Objetos POO115.
