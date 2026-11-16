@@ -1,0 +1,2 @@
+mongodb.uri=mongodb+srv://USUARIO:CONTRASENA@CLUSTER/
+mongodb.database=grupo6_empleados

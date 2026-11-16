@@ -1,0 +1,9 @@
+/target/
+/nbproject/private/
+conexion.properties
+.env
+.env.*
+*.log
+*.bson
+*.archive
+*.zip
